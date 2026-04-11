@@ -146,3 +146,4 @@ smartadserver.com, 5828-OB, RESELLER, 060d053dcf45cbf3
 smartclip.net, 13564, RESELLER
 bold-win.com, 165, RESELLER, 71746737d0bab951
 google.com, pub-7182684769937776, DIRECT, f08c47fec0942fa0
+ironsrc.com, 606861, DIRECT
