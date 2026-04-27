@@ -1,3 +1,4 @@
+ownerdomain=aerdozain.github.io
 bidmachine.io, 1412, RESELLER
 bidmachine.io, 896, RESELLER
 bidmachine.io, 1371, RESELLER
