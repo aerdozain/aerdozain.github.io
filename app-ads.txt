@@ -149,3 +149,4 @@ bold-win.com, 165, RESELLER, 71746737d0bab951
 google.com, pub-7182684769937776, DIRECT, f08c47fec0942fa0
 ironsrc.com, 606861, DIRECT
 unity3d.com, 6018715, DIRECT
+facebook.com, 1048826271447448, DIRECT, c3e20eee3f780d0d
