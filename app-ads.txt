@@ -226,3 +226,4 @@ triplelift.com, 14705, RESELLER, 6c33edb13117fd86
 smaato.com, 1100058938, RESELLER, 07bcf65f187117b4
 smartclip.net, 15458, RESELLER
 media.net, 8CU9B72O6, RESELLER
+facebook.com, 2711805915887660, DIRECT, c3e20eee3f780d68
